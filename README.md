@@ -42,6 +42,13 @@ Program memiliki 5 pilihan menu:
 
 
 jika user memilih angka 6 atau seterusnya maka pilihan tidak valid
+
+
+
+
+
+
+
 <img width="303" height="138" alt="image" src="https://github.com/user-attachments/assets/c7bc9cd1-35f6-4a5b-8ed7-f1114bb402ce" />
 
 
