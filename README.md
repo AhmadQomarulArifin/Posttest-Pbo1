@@ -39,6 +39,10 @@ Program memiliki 5 pilihan menu:
 5. menu yang kelima adalah keluar, jika user memilih menu ini maka program yang dijalankan akan selesai.
 <img width="520" height="197" alt="image" src="https://github.com/user-attachments/assets/4bb23285-281a-4c21-b9ef-f125555e78a9" />
 
+jika user memilih angka 6 atau seterusnya maka pilihan tidak valid
+<img width="303" height="138" alt="image" src="https://github.com/user-attachments/assets/c7bc9cd1-35f6-4a5b-8ed7-f1114bb402ce" />
+
+
 
 
 
