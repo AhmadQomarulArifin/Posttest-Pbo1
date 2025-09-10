@@ -30,17 +30,58 @@ Program memiliki 5 pilihan menu:
 2. menu yang kedua adalah lihat data, dimenu ini program bakal menampilkan semua data yang sudah di tambahkan.
 <img width="800" height="216" alt="image" src="https://github.com/user-attachments/assets/0a673552-d109-4d76-99a8-108fdc077dd3" />
 
+
+
+
+
+
 dan ini adalah tampilan menu ke 2 jika data belum ada 
+
+
+
+
+
+
+
+
+
 <img width="376" height="191" alt="image" src="https://github.com/user-attachments/assets/b1b93e3f-bde1-4b94-bb7d-423fdc242619" />
 
 
 3. menu yang ketiga adalah ubah data, jadi pada menu ini user memilih nomor mana yang akan diubah, kemudian user mengubah datanya
 <img width="499" height="196" alt="image" src="https://github.com/user-attachments/assets/f5787eca-2094-4652-94f9-f3fda058e734" />
 
+
+
+
+
+
+
+
 tampilan menu ke 3 jika data belum ada 
+
+
+
+
+
+
+
 <img width="292" height="138" alt="image" src="https://github.com/user-attachments/assets/0ca7eed4-1ecd-4546-8344-c7883f8ef674" />
 
+
+
+
+
 tampilan menu ke 3 jika nomor yang diinput tidak ada di data
+
+
+
+
+
+
+
+
+
 <img width="350" height="222" alt="image" src="https://github.com/user-attachments/assets/b455479e-7feb-41a2-af4d-31c6fcc6e3d1" />
 
 
@@ -49,9 +90,33 @@ tampilan menu ke 3 jika nomor yang diinput tidak ada di data
 <img width="379" height="216" alt="image" src="https://github.com/user-attachments/assets/16e3cbf3-e8da-4fab-a52f-06caf204e9eb" />
 
 tampilan menu ke 4 jika data belum ada
+
+
+
+
+
+
+
 <img width="339" height="186" alt="image" src="https://github.com/user-attachments/assets/2d53ae2f-288b-4136-bd02-eac9ef3207bf" />
 
+
+
+
+
+
+
+
+
 tampilan menu ke 4 jika data yang mau di hapus tidak ada dalam data
+
+
+
+
+
+
+
+
+
 <img width="392" height="225" alt="image" src="https://github.com/user-attachments/assets/584be98b-df3f-4e23-ae14-8ad28c875164" />
 
 
