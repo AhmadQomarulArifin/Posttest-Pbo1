@@ -141,7 +141,28 @@ jika user memilih angka 6 atau seterusnya maka pilihan tidak valid
 
 
 
+
 Program hanya akan berhenti jika user memilih menu Keluar (pilihan nomor 5).
+
+
+
+
+program
+
+
+
+
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6b0aa9d9-b402-4066-9d32-5e80d82f3f80" />
+<img width="1366" height="641" alt="image" src="https://github.com/user-attachments/assets/14bac417-0026-40fe-a6e3-b0711283a90d" />
+<img width="1366" height="665" alt="image" src="https://github.com/user-attachments/assets/0d758965-f840-4e97-b3f3-0aed3931d425" />
+<img width="1365" height="641" alt="image" src="https://github.com/user-attachments/assets/c14a6af6-9a5e-4359-bfe6-77b25e31f747" />
+<img width="1366" height="665" alt="image" src="https://github.com/user-attachments/assets/e6812f71-d9c3-404f-ae3d-c41fa60e07c6" />
+
+
+
+
+
 
 
 
